@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab]([https://github.com/dejuvn/](https://github.com/DeJuvn/LetsDefend---SOC146---Phishing-Mail-Detected---Excel-4.0-Macros)
+  - [Active Directory Home Lab]([https://github.com/dejuvn/](https://github.com/DeJuvn/LetsDefend---SOC146---Phishing-Mail-Detected---Excel-4.0-Macros))
 
 <h2>📺 Certifications</h2>
 
