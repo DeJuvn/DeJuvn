@@ -7,13 +7,16 @@
   
 <h2>📄 Certifications</h2>
 
-- [CompTIA Security+](https://github.com/DeJuvn/DeJuvn)
-- [Blue Team Level 1 (BTL1)](https://github.com/DeJuvn/DeJuvn) 
+- [CompTIA Security+](https://www.credly.com/earner/earned/badge/2ae1dcec-b3e1-424d-a03c-0fa66e8b6376)
+- [Blue Team Level 1 (BTL1)](https://www.credly.com/earner/earned/badge/ec3928e4-3c05-4b5e-9e16-987f4d8c4b08) 
 - [Qualys Certified Specialist](https://github.com/DeJuvn/DeJuvn)
 
 <h2>📚 Training & Resources</h2>
 
-- [Title](https://www.youtube.com/)
+- [LetsDefend](https://letsdefend.io/)
+- [TryHackMe](https://tryhackme.com/)
+- [Blue Team Level 1](https://securityblue.team/why-btl1/)
+- [Security+](https://www.comptia.org/certifications/security)
 
 <h2> 🤳 Connect with me:</h2>
 
