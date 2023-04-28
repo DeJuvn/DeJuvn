@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-  - [LetsDefend - SOC146 - Phishing Mail Detected - Excel 4.0 Macros](https://github.com/DeJuvn/LetsDefend---SOC146---Phishing-Mail-Detected---Excel-4.0-Macros)
-
+  - [LetsDefend - SOC146 - Phishing Mail Detected](https://github.com/DeJuvn/LetsDefend---SOC146---Phishing-Mail-Detected)
+  - [LetsDefend - SOC145 - Ransomware Detected](https://github.com/DeJuvn/SOC145---Ransomware-Detected)
+  
 <h2>📄 Certifications</h2>
 
 - [CompTIA Security+](https://github.com/DeJuvn/DeJuvn)
