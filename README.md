@@ -2,14 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-  - [LetsDefend - SOC146 - Phishing Mail Detected - Excel 4.0 Macros
-](https://github.com/DeJuvn/LetsDefend---SOC146---Phishing-Mail-Detected---Excel-4.0-Macros)
+  - [LetsDefend - SOC146 - Phishing Mail Detected - Excel 4.0 Macros](https://github.com/DeJuvn/LetsDefend---SOC146---Phishing-Mail-Detected---Excel-4.0-Macros)
 
-<h2>📺 Certifications</h2>
+<h2>📄 Certifications</h2>
 
-- [Security+](https://www.youtube.com/)
+- [CompTIA Security+](https://github.com/DeJuvn/DeJuvn)
+- [Blue Team Level 1 (BTL1)](https://github.com/DeJuvn/DeJuvn) 
+- [Qualys Certified Specialist](https://github.com/DeJuvn/DeJuvn)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📚 Training & Resources</h2>
 
 - [Title](https://www.youtube.com/)
 
