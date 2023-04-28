@@ -1,6 +1,6 @@
 <h1>Hi, I'm DeJuan!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
   - [LetsDefend - SOC146 - Phishing Mail Detected - Excel 4.0 Macros
 ](https://github.com/DeJuvn/LetsDefend---SOC146---Phishing-Mail-Detected---Excel-4.0-Macros)
