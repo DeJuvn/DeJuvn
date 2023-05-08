@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
+  - [Apply Filters To SQL Queries](https://github.com/DeJuvn/Apply-Filters-to-SQL-queries)
   - [Vulnerability Management With Nessus](https://github.com/DeJuvn/Vulnerability-Management-With-Nessus)
   - [LetsDefend - SOC146 - Phishing Mail Detected](https://github.com/DeJuvn/LetsDefend---SOC146---Phishing-Mail-Detected)
   - [LetsDefend - SOC145 - Ransomware Detected](https://github.com/DeJuvn/SOC145---Ransomware-Detected)
