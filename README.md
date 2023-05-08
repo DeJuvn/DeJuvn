@@ -3,6 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
   - [Apply Filters To SQL Queries](https://github.com/DeJuvn/Apply-Filters-to-SQL-queries)
+  - [File Permissions In Linux](https://github.com/DeJuvn/File-Permissions-In-Linux)
+  - [Update a File Through a Python Algorithm](https://github.com/DeJuvn/Update-a-File-Through-a-Python-Algorithm)
   - [Vulnerability Management With Nessus](https://github.com/DeJuvn/Vulnerability-Management-With-Nessus)
   - [LetsDefend - SOC146 - Phishing Mail Detected](https://github.com/DeJuvn/LetsDefend---SOC146---Phishing-Mail-Detected)
   - [LetsDefend - SOC145 - Ransomware Detected](https://github.com/DeJuvn/SOC145---Ransomware-Detected)
