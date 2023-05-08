@@ -15,6 +15,7 @@
 
 <h2>📚 Training & Resources</h2>
 
+- [Google Cybersecurity](https://www.coursera.org/professional-certificates/google-cybersecurity#courses)
 - [LetsDefend](https://letsdefend.io/)
 - [TryHackMe](https://tryhackme.com/)
 - [Blue Team Level 1](https://securityblue.team/why-btl1/)
