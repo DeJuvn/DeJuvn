@@ -11,6 +11,7 @@
 - [CompTIA Security+](https://www.credly.com/earner/earned/badge/2ae1dcec-b3e1-424d-a03c-0fa66e8b6376)
 - [Blue Team Level 1 (BTL1)](https://www.credly.com/earner/earned/badge/ec3928e4-3c05-4b5e-9e16-987f4d8c4b08) 
 - [Qualys Certified Specialist](https://github.com/DeJuvn/DeJuvn)
+- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2W2KZAVDAW6D)
 
 <h2>📚 Training & Resources</h2>
 
