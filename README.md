@@ -1,4 +1,4 @@
-<h1>Hi, I'm DeJuan!
+<h1>Hi, I'm DeJuan! 
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
